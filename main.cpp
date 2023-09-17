@@ -34,6 +34,6 @@ int main()
     if(isSpaced) cout<<"Empty";
     else cout<< s.substr(firstPos + 1, secPos - 1);
     
-
+//dui
     return 0;
 }
